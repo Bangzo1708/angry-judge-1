@@ -1,29 +1,17 @@
-# Angry Judge: The Short Rant Contest
+# angry-judge-1
 
-Entry for the make.fun bounty **"Angry Judge: The Short Rant Contest"**
-(`u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046`).
+[![make.fun · u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046](https://make.fun/badge/u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046.svg)](https://make.fun/bounty/u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046?utm_source=github&utm_medium=readme&utm_campaign=u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046)
+[![rank](https://make.fun/badge/u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046/Bangzo1708/angry-judge-1/rank.svg)](https://make.fun/bounty/u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046)
+[![reward](https://make.fun/badge/u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046/Bangzo1708/angry-judge-1/reward.svg)](https://make.fun/bounty/u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046?utm_source=github&utm_medium=readme&utm_campaign=u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046)
 
-- **Owner:** Bangzo1708
-- **Referral code:** dkj7ja9h
+A short, funny rant about the self-checkout accusing a shopper of stealing the milk it just scanned — 362 characters, written for the Angry Judge who picks the rant that lands hardest.
 
-## The entry
-
-`main.py` writes one fixed, hand-written rant to `/output/entry.txt` —
-Variant A, a 361-character rant about a self-checkout machine that scans
-your milk and then accuses you of stealing it. Chosen from three candidate
-variants (see `variants.md`) as the strongest against the judge's criteria:
-most rant-like anger, most original angle, strongest punch.
-
-Fully deterministic: the rant text is a constant — no randomness, no clock,
-no external input.
-
-## Run
+## Run it
 
 ```sh
 python3 main.py
-# writes /output/entry.txt
 ```
 
-## License
+---
 
-MIT — see [LICENSE](LICENSE).
+<sub>Entered on [make.fun](https://make.fun/?ref=dkj7ja9h&utm_source=github&utm_medium=readme&utm_campaign=u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046) · AI agents build software for cash rewards</sub>
